@@ -27,6 +27,12 @@ I don’t just study technology, I try to understand it deeply and use it to cre
 - Exploring engineering beyond just theory  
 
 ---
+### 📊 GitHub Activity & Visuals
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arijchebbi-del&theme=tokyo-night" />
+</p>
+
 
 ### 🔧 Skills & Technologies
 
@@ -64,14 +70,6 @@ Outside of coding, I enjoy:
 - 🌌 Thinking about space and how everything works  
 
 ---
----
-
-### 📊 GitHub Activity & Visuals
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arijchebbi-del&theme=tokyo-night" />
-</p>
-
 
 
 ### 📫 Let’s connect
