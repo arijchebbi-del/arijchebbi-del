@@ -76,7 +76,6 @@ Outside of coding, I enjoy:
 
 - 📧 Email: arij.chebbi@insat.ucar.tn  
 - 💼 LinkedIn: www.linkedin.com/in/arij-chebbi  
-- 🌐 GitHub: https://github.com/arijchebbi-del  
 
 ---
 
