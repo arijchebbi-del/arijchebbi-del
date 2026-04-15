@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arij</h1>
-<h3 align="center">Engineering Student | Curious Mind | AI & ML Enthusiast 🚀</h3>
+<h3 align="center">Software Engineering Student | Curious Mind | AI & ML Enthusiast 🚀</h3>
 
 ---
 
